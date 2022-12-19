@@ -1,2 +1,1 @@
-# Password-Manager-
-Password manager app with encryption function
+To view files and description, visit master branch :)
