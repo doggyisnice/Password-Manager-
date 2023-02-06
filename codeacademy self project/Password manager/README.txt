@@ -3,5 +3,4 @@ This requires the 3 files together to work. Script.py being the main file, maste
 This project uses cryptography Fernet for the encryption. 
 Courtesy of Tech With Tim for the guidance and inspiration for the project.
 
-Cheers,
-Doggy
+Cheers!
